@@ -18,5 +18,11 @@
         "psr-0": {
             "Easy\\Generics": ""
         }
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "2.1-dev"
+        }
     }
 }
