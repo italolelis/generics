@@ -19,6 +19,7 @@
             "Easy\\Generics": ""
         }
     },
+    "target-dir": "Easy/Generics",
     "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
