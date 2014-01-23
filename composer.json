@@ -12,7 +12,6 @@
         }
     ],
     "require": {
-        "php": ">=5.3.14"
     },
     "autoload": {
         "psr-0": {
