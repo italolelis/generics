@@ -10,7 +10,7 @@ namespace Easy\Generics;
  * @since 2.1.0
  * @author Ítalo Lelis de Vietro <italolelis@lellysinformatica.com>
  */
-interface IComparable
+interface ComparableInterface
 {
 
     /**

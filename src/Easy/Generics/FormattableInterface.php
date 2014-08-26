@@ -10,7 +10,7 @@ namespace Easy\Generics;
  * @since 2.0.0
  * @author Ítalo Lelis de Vietro <italolelis@lellysinformatica.com>
  */
-interface IFormattable
+interface FormattableInterface
 {
 
     /**

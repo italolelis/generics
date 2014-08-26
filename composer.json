@@ -11,18 +11,14 @@
             "email": "italolelis@lellysinformatica.com"
         }
     ],
-    "require": {
-    },
     "autoload": {
-        "psr-0": {
-            "Easy\\Generics": ""
+        "psr-4": {
+            "": "src/"
         }
     },
-    "target-dir": "Easy/Generics",
-    "minimum-stability": "dev",
     "extra": {
         "branch-alias": {
-            "dev-master": "1.0-dev"
+            "dev-master": "2.0-dev"
         }
     }
 }
